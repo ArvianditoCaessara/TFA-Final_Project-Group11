@@ -2,3 +2,5 @@
 The repository for the Final Project of Tools For Analytics class, Columbia University. Team members:
 
 Its the new update
+
+Hi Sean
