@@ -4,3 +4,6 @@ The repository for the Final Project of Tools For Analytics class, Columbia Univ
 Its the new update
 
 Hi Sean
+Hi Sean Again
+
+Hello
